@@ -101,7 +101,7 @@ function criarBarra(var_nome, var_avatar) {
         link.id   = cssId;
         link.rel  = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'https://cdn.jsdelivr.net/gh/idfk346556/ultimodia@main/teste1.css';
+        link.href = 'https://cdn.jsdelivr.net/gh/idfk346556/ultimodia@main/teste3.css';
         link.media = 'all';
         head.appendChild(link);
     }
